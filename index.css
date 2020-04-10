@@ -1,0 +1,118 @@
+.waaagh {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	font-size  : 300px;
+	color      : red;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	visibility: hidden;
+	z-index: 100;
+}
+
+.count {
+	font-size  : 100px;
+	color      : red;
+	font-family: Arial, Helvetica, sans-serif;
+	position   : absolute;
+	top        : 0px;
+	left       : 0px;
+}
+
+.peppa {
+	width                : 200px;
+	height               : 200px;
+	background-image     : url("peppa.png");
+	position             : absolute;
+	left                 : 0px;
+	top                  : 0px;
+	background-size      : cover;
+}
+
+body {
+	margin          : 0;
+	overflow        : hidden;
+	background-image: url("wallpaper.jpg");
+	background-size : cover;
+}
+
+.chel {
+	width   : 50px;
+	position: absolute;
+	top     : -100px;
+	left    : 0px;
+	height  : 50px;
+}
+
+#chel1 {
+	left            : 250px;
+	background-image: url("head1.png");
+	background-size : cover;
+}
+
+#chel2 {
+	left            : 200px;
+	background-image: url("head2.png");
+	background-size : cover;
+}
+
+#chel3 {
+	left            : 400px;
+	background-image: url("head3.png");
+	background-size : cover;
+}
+
+#chel4 {
+	left            : 600px;
+	background-image: url("head4.png");
+	background-size : cover;
+}
+
+#chel5 {
+	left            : 800px;
+	background-image: url("head5.png");
+	background-size : cover;
+}
+
+#chel6 {
+	left            : 300px;
+	background-image: url("head6.png");
+	background-size : cover;
+}
+
+#chel7 {
+	left            : 1100px;
+	background-image: url("head7.png");
+	background-size : cover;
+}
+
+#chel8 {
+	left            : 100px;
+	background-image: url("head8.png");
+	background-size : cover;
+}
+
+#chel9 {
+	left            : 20px;
+	background-image: url("head9.png");
+	background-size : cover;
+}
+
+#chel10 {
+	left            : 450px;
+	background-image: url("head10.png");
+	background-size : cover;
+}
+
+.play {
+	width: 1000px;
+}
+
+.aa {
+	background-image: url("buttin_play.png");
+	background-size : cover;
+	height          : 140px;
+	width           : 340px;
+	margin-left     : 500px;
+	margin-top      : 200px;
+}
